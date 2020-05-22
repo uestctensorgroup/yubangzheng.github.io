@@ -45,7 +45,7 @@ permalink: /homepage/
 
 * Xi-Le Zhao, Xin Nie, **Yu-Bang Zheng**, Teng-Yu Ji, Ting-Zhu Huang, "Low-Rank Tensor Completion via Tensor Nuclear Norm With Hybrid Smooth Regularization", _IEEE Access_, vol. 7, pp. 131888-131901, 2019. [[PDF]](https://yubangzheng.github.io/papers/ieee_access_xlz.pdf)
 
-* Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, 2020, doi: 10.1007/s11075-020-00876-y. 
+* Xin Li, Ting-Zhu Huang, Xi-Le Zhao, Teng-Yu Ji, **Yu-Bang Zheng**, Liang-Jian Deng, "Adaptive Total Variation and Second-Order Total Variation-Based Model for Low-Rank Tensor Completion", _Numerical Algorithms_, **accepted**, doi: 10.1007/s11075-020-00876-y, 2020. 
 
 #### Conference
 
